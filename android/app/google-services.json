@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714594095521",
+    "project_id": "fitnes-c15fc",
+    "storage_bucket": "fitnes-c15fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714594095521:android:b049e1b92c994dceeebbe0",
+        "android_client_info": {
+          "package_name": "com.example.email_password_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714594095521-jdj3s8p2qnq8mi3jhjm1vka39fi7e677.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGZzCVG4w9zVNRtpmT0JhFd9FbkIx8uAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714594095521-jdj3s8p2qnq8mi3jhjm1vka39fi7e677.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
